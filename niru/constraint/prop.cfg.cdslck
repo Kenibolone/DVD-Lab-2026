@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      work
+HostName                       work-eda
+ProcessIdentifier              3473
+ProcessCreationTime_UTC        1776840226
+ProcessCreationTime_Readable   Wed Apr 22 14:43:46 2026 CST
+AppIdentifier                  /opt/IC617/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/work/DvlsiProject/niru/constraint/prop.cfg
+TimeEditLocked                 Thu Apr 23 10:36:49 2026 CST

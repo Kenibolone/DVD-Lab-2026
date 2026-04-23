@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      work
+HostName                       work-eda
+ProcessIdentifier              3404
+ProcessCreationTime_UTC        1776764081
+ProcessCreationTime_Readable   Tue Apr 21 17:34:41 2026 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/work/DvlsiProject/upcounter_synch/schematic/sch.oa.cdslck
+TimeEditLocked                 Wed Apr 22 14:23:36 2026 CST

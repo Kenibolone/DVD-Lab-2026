@@ -1,0 +1,13 @@
+# Cadence OpenAccess junk
+*.oa
+*.tag
+*.cfg
+cdsinfo.tag
+.oalib
+
+# Temp/log
+*.log
+*.tmp
+
+# Optional: thumbnails
+*thumbnail*.png
